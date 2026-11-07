@@ -1,0 +1,51 @@
+<center>
+<h1>IPL Team</h1>
+<table border = "1">
+    <tr>
+        <td>Name</td> <td>Age</td> <td>Team</td>
+    </tr> 
+
+<tr>
+    <td>Dhoni</td>  <td>45</td>  <td>Chennai Super Kings</td>
+</tr>
+
+
+<tr>
+    <td>Virat Kohli</td>  <td>38</td> <td>Royal Challengers Bengaluru</td>
+</tr>
+
+<tr>
+    <td>Rohit Sharma</td>  <td>39</td> <td>Mumbai Indians</td>
+</tr>
+
+<tr>
+    <td>Rishabh Pant</td>  <td>29</td>  <td>Lucknow Super Giants</td>
+</tr>
+
+
+<tr>
+    <td>Shreyas Iyer</td>  <td>31</td>  <td>Punjab Kings</td>
+</tr> 
+
+<tr>
+    <td>Heinrich Klaasen</td>  <td>35</td>  <td>Sunrisers Hyderabad</td>
+</tr>
+
+<tr>
+    <td>Rinku Singh</td>  <td>29</td>  <td>Kolkata Knight Riders</td>
+</tr>
+
+<tr>
+    <td>Yashasvi Jaiswal</td>  <td>24</td>  <td>Rajasthan Royals</td>
+</tr>
+
+<tr>
+    <td>Shubman Gill</td>  <td>27</td>  <td>Gujarat Titans</td>
+</tr>
+
+<tr>
+    <td>Axar Patel</td>  <td>32</td>  <td>Delhi Capitals</td>
+</tr>
+
+</table>
+</center>
